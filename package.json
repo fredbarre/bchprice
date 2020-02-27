@@ -1,0 +1,10 @@
+{
+	"name" : "bchPrice",
+	"main" : "index.html",
+	"window" : {
+		"toolbar" : false,
+		"height" : 450,
+		"width" : 400,
+		"frame" : true
+	}
+}
