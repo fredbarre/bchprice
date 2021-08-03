@@ -2,7 +2,7 @@
 watch the bch price in €
 (uses coinbase api)
 
-DL here: https://ufile.io/4a8himfo
+download here windows version: https://ufile.io/4a8himfo
 
 OR
 
