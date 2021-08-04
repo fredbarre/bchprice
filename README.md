@@ -4,6 +4,11 @@ watch the bch price in €
 
 download here windows version: https://ufile.io/4a8himfo
 
+download here linux version: https://ufile.io/6ifc1vew
+
+to lauch on linux on cmd:
+-cd to uncompressed directory
+./bchprice
 OR
 
 To install download 
